@@ -1,4 +1,6 @@
 
+![The final product](https://s3.amazonaws.com/jmchugh/GitHubPictures/MiniArcade.jpg)
+
 About 7 years ago I built a full size arcade cabinet out of wood.  It took over a month but it was a really neat project and I learned a lot while doing it.  The arcade cabinet is a lot of fun but it is also also quite large and I no longer wanted to dedicate the floor space for it.  At the same time I didn't want to give up the ability to play the arcade games using a classic joystick and buttons.  
 
 On 10/21/2014 I decided to create a miniature arcade cabinet.  I own a 40W FS Laser cutter and I love working with interesting woods and acrylics.  I was hoping that I could find some good plans online for a cabinet and this project would give me the opportunity to play around with a Raspberry PI that I received for last Christmas.  After searching online for quite a bit I discovered that there were no such good plans that were available.  There were projects that had made available some great documentation but in terms of getting plans to be used as a starting point I couldn't find anything.  
